@@ -25,7 +25,7 @@ public:
                  x=0;
             else
                 x=1;
-            cout<<x;
+            //cout<<x;
             v.push_back(x);
             q.pop();
                 
