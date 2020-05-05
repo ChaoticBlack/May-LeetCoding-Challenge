@@ -24,4 +24,4 @@ public:
     }
 };
 
-//I know some unnecessary looping is taking place, but couldn't figure out how to reduce them! 
+//I know some unnecessary looping is taking place, but couldn't figure out how to reduce it! 
